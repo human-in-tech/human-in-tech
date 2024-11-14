@@ -1,4 +1,4 @@
-## Hi there 👋
+## A little bit about me 🐢
 
 
 - 🔭 I’m currently working on **NLP-based projects**
